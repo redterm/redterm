@@ -1,79 +1,86 @@
 <!-- 
-  ========================================================
-  🔴 REDTERM MAINFRAME // V.9.0.1 // UNAUTHORIZED ACCESS
-  ========================================================
+  /// REDTERM_SYSTEM_V3.0 /// 
+  /// UNAUTHORIZED_ACCESS_DETECTED ///
 -->
 
 <div align="center">
 
-  <!-- GLITCH HEADER: Uses a specific font to look like a hacked terminal -->
+  <!-- 1. THE GLITCH HEADER -->
+  <!-- This uses a "Glitch" font to visualize your name -->
   <a href="https://github.com/redterm">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=400&size=60&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=R+E+D+T+E+R+M;SYSTEM_FAILURE...;REBOOTING...;IDEAS_MATERIALIZED." alt="RedTerm Glitch" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=400&size=55&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=R+E+D+T+E+R+M;REALITY_ENGINE_ONLINE;MAKING_IDEAS_TANGIBLE." alt="RedTerm Glitch" />
   </a>
-  
-  <br />
 
-  <!-- STATUS BADGES: Purely aesthetic, non-functional "System" badges -->
+  <!-- 2. ABSTRACT SYSTEM STATUS -->
   <p>
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-000000?style=for-the-badge&logo=linux&logoColor=red&border=red" />
-    <img src="https://img.shields.io/badge/INTEGRITY-100%25-000000?style=for-the-badge&logo=github&logoColor=red&border=red" />
-    <img src="https://img.shields.io/badge/MODE-TANGIBLE-000000?style=for-the-badge&logo=unrealengine&logoColor=red&border=red" />
+    <img src="https://img.shields.io/badge/SERVER-NETHERLANDS_NL-black?style=for-the-badge&logo=linux&logoColor=red&border=red" />
+    <img src="https://img.shields.io/badge/UPTIME-INFINITE-black?style=for-the-badge&logo=activitypub&logoColor=red&border=red" />
+    <img src="https://img.shields.io/badge/OUTPUT-TANGIBLE-black?style=for-the-badge&logo=unrealengine&logoColor=red&border=red" />
   </p>
 
 </div>
 
 <br />
 
-<!-- DASHBOARD LAYOUT: A complex table to mimic a multi-screen setup -->
+<!-- 3. THE MAINFRAME DASHBOARD (Complex HTML Table Layout) -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- LEFT COLUMN: DATA FEED -->
-    <td width="50%" valign="top">
+    
+    <!-- LEFT PANEL: THE "BRAIN" (LOGS) -->
+    <td width="45%" valign="top">
+      <h3 align="left">🛑 <code>/var/log/syslog</code></h3>
       
-### 🛑 [TERMINAL_OUTPUT]
+      <!-- Typing effect simulating a running terminal -->
+      <a href="https://github.com/redterm">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=F2F2F2&background=00000000&vCenter=true&width=380&lines=%3E+Initializing+neural_link...;%3E+Pattern+recognition+active.;%3E+Compiling+abstract+thought...;%3E+Materializing+code+objects.;%3E+Error:+Too_much_creativity.;%3E+Retrying..._[SUCCESS]" alt="Terminal Logs" />
+      </a>
+      
+      <br/><br/>
+      
+      <!-- CRYPTIC DATA BLOCK -->
+      <details>
+        <summary><b>🔻 [EXPAND_KERNEL_DUMP]</b></summary>
+        <br/>
+        <code>
+          Target: Ideas <br/>
+          Action: Materialize <br/>
+          Status: <span style="color:red"><b>BUSY</b></span> <br/>
+          ------------------ <br/>
+          0x45 0x12 0x99 <br/>
+          0xRED 0xTRM 0x00
+        </code>
+      </details>
+    </td>
 
-```diff
-! SYSTEM LOG:
-+ > Initializing creative protocols...
-+ > Abstract ideas detected.
-- > Error: Reality buffer overflow.
-! > Compiling to physical realm... [SUCCESS]
-<br/>
-<!-- EXPANDABLE "HIDDEN" SECTION -->
-<details>
-<summary><b>🔻 ACCESS_KERNEL_DATA (Encrypted)</b></summary>
-<br/>
-<blockquote>
-<i>"The code you see is just the shadow of the idea. The real machine is in the mind."</i>
-</blockquote>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=redterm&show_icons=true&theme=radical&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=666&bg_color=0d1117&hide=stars,contribs" alt="stats"/>
-</details>
-</td>
-<!-- RIGHT COLUMN: VISUALIZER -->
-<td width="50%" valign="top">
-📡 [VISUALIZER]
-<!-- The Snake Animation is embedded here as a "Screen" -->
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redterm/redterm/output/github-snake-dark.svg">
-<img alt="Activity Graph" src="https://raw.githubusercontent.com/redterm/redterm/output/github-snake.svg" width="100%">
-</picture>
-</div>
-<br/>
-<div align="right">
-<!-- Small "blink" animation for active status -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=12&pause=1000&color=FF0000&width=150&lines=Scanning...;Indexing...;Waiting_for_input_" alt="status" />
-</div>
-</td>
-</tr>
+    <!-- RIGHT PANEL: THE "HEART" (VISUALIZER) -->
+    <td width="55%" valign="top">
+      <h3 align="right">📡 <code>/dev/visualizer</code></h3>
+      
+      <div align="center">
+        <!-- YOUR SNAKE ANIMATION EMBEDDED HERE -->
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redterm/redterm/output/github-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redterm/redterm/output/github-snake.svg">
+          <img alt="RedTerm Activity" src="https://raw.githubusercontent.com/redterm/redterm/output/github-snake.svg" width="100%">
+        </picture>
+      </div>
+
+      <div align="right">
+        <sub><i>Tracking activity heat signature...</i></sub>
+      </div>
+    </td>
+    
+  </tr>
 </table>
-<!-- BOTTOM SECTION: FOOTER -->
+
+<!-- 4. FOOTER DECORATION -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1px" style="filter: grayscale(100%) brightness(50%) sepia(100%) hue-rotate(-50deg) saturate(600%) contrast(0.8);">
-<br/><br/>
-<p style="font-family: monospace; color: #888;">
-Running Process: <code>redterm.exe</code> <br/>
-Memory Usage: <code>UNKNOWN</code>
-</p>
+  <br />
+  <!-- A Red Gradient Line -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="2px">
+  <br /><br />
+  
+  <p style="font-family: monospace; color: #666; font-size: 10px;">
+    // REDTERM // EST. 2024 // ALL RIGHTS RESERVED // <span style="color:red">EXECUTE</span>
+  </p>
 </div>
