@@ -1,47 +1,32 @@
-<div align="center">
-  <h1> R E D <span style="color:red">T E R M</span> </h1>
-  <p><i>// Making ideas tangible //</i></p>
-</div>
+# 🏗️ <span style="color:#ff2a2a">redterm</span> / prototype_v1
+
+> *"Making ideas tangible."*
 
 ---
 
-### >_ <span style="color:red">Transmission_Start</span>
+### 🛠️ The Assembly Line
 
-I don't just write code; I **forge** applications. 
-My goal is to take the *abstract* (thoughts, sketches, "what ifs") and compile them into the *tangible* (apps, tools, solutions).
+| **Input (Ideas)** | **Process (Code)** | **Output (Tangible)** |
+| :--- | :--- | :--- |
+| 🧠 **Concept** | 💻 **Languages** | 🚀 **Deployment** |
+| User Needs | ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=red) | Vercel / Netlify |
+| System Design | ![Py](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=red) | Docker Containers |
+| Coffee ☕ | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=red) | Open Source Tools |
 
-<br />
+<br/>
 
-### 🔻 <span style="color:red">The_Stack</span>
+### 📟 Telemetry
+<!-- Snake animation - looks like a data stream -->
+<img src="https://github.com/redterm/redterm/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 
-<!-- Using HTML details for a collapsible "glitch" menu look -->
-<details>
-<summary><b>[CLICK TO EXPAND ARSENAL]</b></summary>
-<br />
-  
-  <img src="https://img.shields.io/badge/Code-TypeScript-111?style=flat-square&logo=typescript&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Code-Rust-111?style=flat-square&logo=rust&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Code-Go-111?style=flat-square&logo=go&logoColor=red"/>
-  <br />
-  <img src="https://img.shields.io/badge/Tool-Docker-111?style=flat-square&logo=docker&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Tool-Linux-111?style=flat-square&logo=linux&logoColor=red"/>
-
-</details>
+### 📍 Current Coordinates
+*   **Working on:** [ Project Name ]
+*   **Learning:** System Architecture
+*   **Ping me:** `connect@redterm.dev`
 
 <br />
 
-### 🛑 <span style="color:red">Critical_Data</span>
-
-| <span style="color:red">Metric</span> | <span style="color:red">Value</span> |
-| :--- | :--- |
-| **Commits** | `Infinite` |
-| **Bugs** | `Features` |
-| **Focus** | `100%` |
-
-<!-- Using a red graph picture link -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redterm&layout=compact&theme=gotham&title_color=ff0000&hide_border=true)](https://github.com/redterm/)
-
----
 <div align="center">
-  <sub>End of Line.</sub>
+  <!-- Minimalist footer badge -->
+  <img src="https://img.shields.io/badge/Status-Online-red?style=for-the-badge" />
 </div>
