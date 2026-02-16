@@ -25,13 +25,13 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="45%" valign="top">
-      <h3 align="left">🛑 <code>/var/log/syslog</code></h3>
+      <h3 align="left"><code>/var/log/syslog</code></h3>
       <a href="https://github.com/redterm">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=ff4444&background=00000000&vCenter=true&width=380&lines=%3E+Initializing+neural_link...;%3E+Pattern+recognition+active.;%3E+Compiling+abstract+thought...;%3E+Materializing+code+objects.;%3E+Error:+Too_much_creativity.;%3E+Retrying..._[SUCCESS]" alt="Terminal Logs" />
       </a>
       <br/><br/>
       <details>
-        <summary><b>🔻 [EXPAND_KERNEL_DUMP]</b></summary>
+        <summary><b>[EXPAND_KERNEL_DUMP]</b></summary>
         <br/>
         <code>
           Target: Ideas <br/>
@@ -44,7 +44,7 @@
       </details>
     </td>
     <td width="55%" valign="top">
-      <h3 align="right">📡 <code>/dev/visualizer</code></h3>
+      <h3 align="right"><code>/dev/visualizer</code></h3>
       <div align="center">
         <!-- YOUR SNAKE ANIMATION EMBEDDED HERE -->
         <picture>
