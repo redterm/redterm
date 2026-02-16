@@ -17,8 +17,12 @@
 
 ### 📟 Telemetry
 <!-- Snake animation - looks like a data stream -->
-<img src="https://github.com/redterm/redterm/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-
+<!-- The RedTerm Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redterm/redterm/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redterm/redterm/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/redterm/redterm/output/github-snake.svg">
+</picture>
 ### 📍 Current Coordinates
 *   **Working on:** [ Project Name ]
 *   **Learning:** System Architecture
