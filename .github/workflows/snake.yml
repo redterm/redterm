@@ -19,21 +19,13 @@ jobs:
         uses: Platane/snk@v3
         with:
           # Name of your github user
-          github_user_name: redterm
+          github_user_name: ${{ github.repository_owner }}
           
-          # This creates two files: a standard one and a dark-mode one
+          # This generates the images. 
+          # We pass the RED colors directly in the URL query parameters here.
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-          
-          # OPTIONAL: CUSTOM RED THEME (matches your "redterm" vibe)
-          # Color 0: Background (matches dark mode)
-          # Colors 1-4: Activity levels from low to high (Dark Red -> Bright Red)
-          # If you delete this section, it will use default Green.
-          outputs_options: |
-            palette:
-              color_snake: "#FF0000"
-              color_dots: ["#161b22", "#450a0a", "#7f1d1d", "#b91c1c", "#ef4444"]
+            dist/github-snake.svg?color_snake=#FF0000&color_dots=#161b22,#450a0a,#7f1d1d,#b91c1c,#ef4444
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FF0000&color_dots=#161b22,#450a0a,#7f1d1d,#b91c1c,#ef4444
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
