@@ -27,7 +27,7 @@
     <td width="45%" valign="top">
       <h3 align="left">🛑 <code>/var/log/syslog</code></h3>
       <a href="https://github.com/redterm">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=F2F2F2&background=00000000&vCenter=true&width=380&lines=%3E+Initializing+neural_link...;%3E+Pattern+recognition+active.;%3E+Compiling+abstract+thought...;%3E+Materializing+code+objects.;%3E+Error:+Too_much_creativity.;%3E+Retrying..._[SUCCESS]" alt="Terminal Logs" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=ff4444&background=00000000&vCenter=true&width=380&lines=%3E+Initializing+neural_link...;%3E+Pattern+recognition+active.;%3E+Compiling+abstract+thought...;%3E+Materializing+code+objects.;%3E+Error:+Too_much_creativity.;%3E+Retrying..._[SUCCESS]" alt="Terminal Logs" />
       </a>
       <br/><br/>
       <details>
@@ -66,8 +66,4 @@
   <!-- A Red Gradient Line -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="2px">
   <br /><br />
-  
-  <p style="font-family: monospace; color: #666; font-size: 10px;">
-    // REDTERM // EST. 2024 // ALL RIGHTS RESERVED // <span style="color:red">EXECUTE</span>
-  </p>
 </div>
