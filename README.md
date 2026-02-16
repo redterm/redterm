@@ -8,7 +8,7 @@
   <!-- 1. THE GLITCH HEADER -->
   <!-- This uses a "Glitch" font to visualize your name -->
   <a href="https://github.com/redterm">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=400&size=55&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=R+E+D+T+E+R+M;REALITY_ENGINE_ONLINE;MAKING_IDEAS_TANGIBLE." alt="RedTerm Glitch" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=400&size=55&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=R+E+D+T+E+R+M;." alt="RedTerm Glitch" />
   </a>
 
   <!-- 2. ABSTRACT SYSTEM STATUS -->
